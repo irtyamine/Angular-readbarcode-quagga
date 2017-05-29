@@ -146,7 +146,7 @@ var BarcodeComponent = (function () {
             inputStream: {
                 name: 'Live',
                 type: 'LiveStream',
-                target: '#inputBarcode'
+                target: 'inputBarcode'
             },
             decoder: {
                 readers: ['ean_reader']
