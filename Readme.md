@@ -27,6 +27,12 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
+Note : After generate files, change `base href` in `index.html` file.
+
+For scan01 example :
+
+   <base href="https://laurentsouchet-orange.github.io/Angular-readbarcode-quagga/examples/scan01/" />
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
