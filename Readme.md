@@ -1,6 +1,14 @@
 Code to read barcode with Angular 4 and Quagga libs
 
+Example 1 : scan a barcode :
+
 https://laurentsouchet-orange.github.io/Angular-readbarcode-quagga/examples/scan01/index.html
+
+
+Example 2 : scan a barcode, adding a if/then with a specific barcode to test alert Modal or PDF viewer with Carousel
+
+https://laurentsouchet-orange.github.io/Angular-readbarcode-quagga/examples/scan01/index.html
+
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
