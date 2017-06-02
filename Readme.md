@@ -7,7 +7,7 @@ https://laurentsouchet-orange.github.io/Angular-readbarcode-quagga/examples/scan
 
 Example 2 : scan a barcode, adding a if/then with a specific barcode to test alert Modal or PDF viewer with Carousel
 
-https://laurentsouchet-orange.github.io/Angular-readbarcode-quagga/examples/scan01/index.html
+https://laurentsouchet-orange.github.io/Angular-readbarcode-quagga/examples/scan02/index.html
 
 
 
